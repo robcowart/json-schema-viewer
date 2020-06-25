@@ -1,7 +1,7 @@
 {
   "name": "json-schema-viewer",
   "version": "0.3.4",
-  "homepage": "https://github.com/jlblcc/json-schema-viewer",
+  "homepage": "https://github.com/robcowart/json-schema-viewer",
   "authors": [
     "Josh Bradley <jbradley@arcticlcc.org>"
   ],

@@ -31,7 +31,7 @@ Built using:
 
 ## Installation
 
- 1. Clone repository: `git clone https://github.com/jlblcc/json-schema-viewer.git`
+ 1. Clone repository: `git clone https://github.com/robcowart/json-schema-viewer.git`
  2. Enter project directory: `cd json-schema-viewer`
  3. Install dependencies via Bower: `bower install`
  4. Install dependencies via NPM: `npm install`
@@ -79,7 +79,7 @@ Example: http://jlblcc.github.io/json-schema-viewer/basic.html
 
 ##Development
 
-Edit the [templates](https://github.com/jlblcc/json-schema-viewer/tree/master/templates)
+Edit the [templates](https://github.com/robcowart/json-schema-viewer/tree/master/templates)
 to modify layout:
 
  - index.html: jQuery Mobile interface. Copied to /dev.html on
@@ -91,7 +91,7 @@ to modify layout:
 
 ##Grunt
 
-See [Gruntfile.js] (https://github.com/jlblcc/json-schema-viewer/blob/master/Gruntfile.js) or
+See [Gruntfile.js] (https://github.com/robcowart/json-schema-viewer/blob/master/Gruntfile.js) or
 the [JSDocs](http://jlblcc.github.io/json-schema-viewer/docs/module-grunt.html)
 for details on the available Grunt tasks. `grunt --help` will also list available
 tasks.
